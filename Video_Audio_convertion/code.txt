@@ -1,0 +1,1 @@
+python convert.py pic1.cpbitmap pic01.png
